@@ -1,4 +1,4 @@
-# Classificao-de-Cervejas-com-Python
+# Classificacao-de-Cervejas-com-Python
 
 # 🍺 Classificação da Qualidade de Cervejas com Ciência de Dados
 
